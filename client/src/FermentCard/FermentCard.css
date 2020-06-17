@@ -1,0 +1,19 @@
+
+.ferment-card {
+  height: 5rem;
+  border: 1px solid rgba(0, 0, 0, 0.74);
+  width: 82%;
+  margin: 1rem auto;
+  padding: 1.3rem;
+
+}
+
+.ferment-title {
+  font-size: 1.3rem;
+  font-weight: bold;
+  padding: .4rem 0;
+}
+
+.ferment-date {
+  padding: .15rem;
+}
